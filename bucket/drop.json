@@ -1,11 +1,11 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Run a command on Windows without elevated privileges. A PowerShell port of busybox-w32's drop/pdrop.",
     "homepage": "https://github.com/kevinswiber/drop-ps1",
     "license": "MIT",
-    "url": "https://github.com/kevinswiber/drop-ps1/archive/refs/tags/v1.0.1.zip",
-    "hash": "efa7033869e776f5f05c9b576601ebdecb7a6ee3f70971451734b8cfb4d9db12",
-    "extract_dir": "drop-ps1-1.0.1",
+    "url": "https://github.com/kevinswiber/drop-ps1/archive/refs/tags/v1.0.2.zip",
+    "hash": "1f237925ee7a1365a7c777c4ce2ba042cf4de58f4e7b1718a6eda57cf533d90d",
+    "extract_dir": "drop-ps1-1.0.2",
     "bin": "bin\\drop.ps1",
     "checkver": "github",
     "autoupdate": {
